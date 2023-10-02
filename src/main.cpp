@@ -15,7 +15,7 @@ int main()
     {
         currentChar = getch();
         cout << (int)currentChar << endl;
-        if (currentChar == 113 && prevChar == 58)
+        if (currentChar == 113 && prevChar == 58) // If the user presses 'shift + :' then 'q', break the loop, stop the execution
         {
             break;
         }
