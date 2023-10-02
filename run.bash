@@ -2,5 +2,5 @@
 
 set -e
 
-g++ main.cpp -o main -lwinmm
+g++ ./src/main.cpp -o main -lwinmm
 ./main
