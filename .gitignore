@@ -1,4 +1,6 @@
 .env
 tests
-.run.bash
-.main.exe
+run.bash
+main.exe
+
+todo.txt
