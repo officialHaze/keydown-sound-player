@@ -1,0 +1,4 @@
+.env
+tests
+.run.bash
+.main.exe
